@@ -11,6 +11,6 @@ Nice to meet you here.
 ## 👨🏻‍💻 &nbsp;My Stats
 
 <div>
-  <img height="150em" src="https://lokigit.vercel.app/api?username=WongLoki&show_icons=true&layout=compact&hide=stars&count_private=true" alt="loki's GitHub Stats"/>
-  <img height="150em" src="https://lokigit.vercel.app/api/top-langs/?username=WongLoki&layout=compact&count_private=true&hide=html" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WongLoki&show_icons=true&layout=compact&hide=stars&count_private=true" alt="loki's GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WongLoki&layout=compact&count_private=true&hide=html" />
 </div>
